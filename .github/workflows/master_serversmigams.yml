@@ -56,5 +56,5 @@ jobs:
         with:
           app-name: 'serversmigams'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E8ADA8E5662C44D39CE7A9372694F71B }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D9734F799E054B7E9EC53981BAAF2C0E }}
           package: .
