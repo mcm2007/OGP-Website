@@ -1,0 +1,9 @@
+{
+    "require": {
+        "ext-mbstring": "*",
+        "pear/pear": "^1.10",
+        "ext-bcmath": "*",
+        "comodojo/xmlrpc": "^1.1",
+        "milo/xml-rpc": "^3.0"
+    }
+}
