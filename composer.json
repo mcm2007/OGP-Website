@@ -1,0 +1,7 @@
+{
+    "require": {
+        "comodojo/xmlrpc": "^2.0",
+        "symfony/polyfill-mbstring": "^1.24",
+        "phpseclib/bcmath_compat": "^2.0"
+    }
+}
