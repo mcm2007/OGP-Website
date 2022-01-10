@@ -1,0 +1,7 @@
+{
+    "require": {
+        "ext-mbstring": "*",
+        "pear/pear": "^1.10",
+        "ext-bcmath": "*"
+    }
+}
