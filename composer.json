@@ -1,7 +1,0 @@
-{
-    "require": {
-        "ext-xmlrpc": "*"
-        "ext-mbstring": "*"
-        "ext-bcmath": "*"
-    }  
-}
